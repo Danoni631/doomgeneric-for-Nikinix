@@ -1,0 +1,12 @@
+ALL OS AND LIBRARYS OF DOOM GENERIC
+
+Windows
+SOSO
+Simple DirectMedia Layer library
+SOSO Nano X version
+Linux Virtual Terminal
+Allegro Library
+EmScripten
+NovaOS
+
+Now, Nikinix
